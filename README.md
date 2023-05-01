@@ -7,5 +7,9 @@ Si estás aprendiendo Python y buscas una manera divertida de poner tus habilida
 
 En este repositorio, encontrarás una serie de ejemplos de juegos sencillos creados con Pygame que pueden ayudarte a aprender más sobre Python y la creación de videojuegos. Cada ejemplo incluye un archivo README con una explicación detallada del código, para que puedas entender mejor cómo funciona y cómo puedes modificarlo para crear tus propios juegos.
 
+Suscribir por correo
+Ingresa tu correo y recibirás mis últimas entradas sobre programación, open source, bases de datos y todo lo relacionado con informática
+* Aquí: [Suscríbete](https://moneytoday.es/contacto)
+
 
 ¡Anímate a dar tus primeros pasos en la programación de videojuegos y descubre todo lo que puedes lograr con Pygame y Python! 🚀 #Python #Pygame #Programación #Juegos
